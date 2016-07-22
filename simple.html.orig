@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+	<title>This is sample title on MB before rebase...Trouble Trouble Trouble</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< fd55393cdcf9d3929dbce36ed5519f652c448d08
+			Just some content
+			lets add more trouble
+=======
+			Feature branch adding some trouble
+>>>>>>> Feature branch adding some trouble
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2014</p>
+	</footer>
+</body>
+</html>
