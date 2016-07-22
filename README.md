@@ -14,4 +14,4 @@ To learn how git works
 
 You can contribute to it after you learn it.
 
-Can I do some more modifications.
+Can I do some more modifications?
