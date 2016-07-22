@@ -8,4 +8,10 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+To learn how git works
+
 ## How To Contribute
+
+You can contribute to it after you learn it.
+
+Can I do some more modifications.
