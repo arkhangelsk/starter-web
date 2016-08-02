@@ -19,3 +19,6 @@ Can I do some more modifications?
 Just trying to practice more and more...
 
 Changes from myFeature Branch
+
+## Copy Right
+Copyright 2016 - All Rights Reserved.
